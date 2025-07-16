@@ -52,15 +52,15 @@
 ## 🌈 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohana0304&show_icons=true&theme=radical&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohana0304&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohana0304&theme=radical" />
 </p>
 
 ---
