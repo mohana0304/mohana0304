@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=650&lines=Hi+Cutie+%F0%9F%A7%90%2C+I'm+Mohana+Priya!;Designing+Dreams+%E2%9C%A8+%7C+Coding+with+Kindness+%F0%9F%92%96;Building+Tech+that+Feels+Like+Magic+%F0%9F%8C%88" alt="Typing SVG" />
 </p>
 
-<h1 align="center">💖🌸 Welcome to My Code Cottage! 🌸💖</h1>
+<h1 align="center">Mohanapriya🐼</h1>
 <h3 align="center">✨ Mohana Priya ✨ | 🦋 Frontend Fairy | 🎨 UI Enchanter | 📚 Learning Alchemist</h3>
 
 <p align="center">
   🧸 I believe tech can be soft, sweet, and sparkly — just like your favorite plush toy!  
 </p>
 
-<p align="center">⋆｡°✩🌷💾🍡🌈✨🧃💜🪄🦄🖍️💻🌸☁️⋆｡°✩</p>
+<p align="center">⋆｡°✩⋆｡°✩</p>
 
 ---
 
