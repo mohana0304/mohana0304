@@ -64,7 +64,7 @@
 
 ---
 
-## 🐣 Fun Facts About This Sparkly Coder
+##🐣 About This Sparkly Coder
 
 - 🦋 I design like I’m painting butterflies  
 - ☁️ I believe creativity and code are besties  
